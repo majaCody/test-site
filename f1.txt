@@ -1,6 +1,0 @@
-this is new file
-<<<<<<< HEAD
-new changes are created and the file is fixed
-=======
->>>>>>> refs/remotes/origin/main
-hello again
