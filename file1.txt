@@ -3,3 +3,4 @@ new line in file1
 file1 edited in version2
 file1 edited again
 file1.txt again
+bla bla bla
