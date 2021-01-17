@@ -1,1 +1,2 @@
 I am Tomcat.
+I have four legs.
